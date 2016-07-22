@@ -1,11 +1,20 @@
-
-*Importing Project In Eclipse--*
-
+## Importing Project In Eclipse
 Go to project directory and run below command
 
-$gradle eclipse
+**$gradle eclipse**
 
-This will create eclipse specific directories. 
-Now go to eclipse and import this as Existing Project.
+This will create eclipse specific directories. Now go to eclipse and import this as Existing Project.
+
+## Running Build
+
+### Run default build task 
+** $gradle  **
+
+### Run a specific task
+** $gradle <task_name> **  
+
+### Run task in quite mode
+** $gradle -q hello  **
+
 
 
