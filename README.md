@@ -8,13 +8,13 @@ This will create eclipse specific directories. Now go to eclipse and import this
 ## Running Build
 
 ### Run default build task 
-** $gradle  **
+**$gradle**
 
 ### Run a specific task
-** $gradle <task_name> **  
+**$gradle <task_name>**  
 
 ### Run task in quite mode
-** $gradle -q hello  **
+**$gradle -q hello**
 
 
 
