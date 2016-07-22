@@ -11,7 +11,7 @@ This will create eclipse specific directories. Now go to eclipse and import this
 **$gradle**
 
 ### Run a specific task
-**$gradle <task_name>**  
+**$gradle hello**  
 
 ### Run task in quite mode
 **$gradle -q hello**
